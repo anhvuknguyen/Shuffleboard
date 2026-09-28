@@ -1,0 +1,10 @@
+Software/Debug/
+Software/Release/
+Software/*.o
+Software/*.obj
+Software/*.out
+Software/*.map
+Software/.settings/
+Software/.launches/
+Software/targetConfigs/
+Software/*.d

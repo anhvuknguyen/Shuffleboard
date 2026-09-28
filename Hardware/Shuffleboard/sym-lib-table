@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LOGIC-74HC595N_DIP16_")(type "KiCad")(uri "${KIPRJMOD}/SpecificParts/Symbol/LOGIC-74HC595N_DIP16_.kicad_sym")(options "")(descr ""))
+  (lib (name "INND-TS56RCB")(type "KiCad")(uri "${KIPRJMOD}/SpecificParts/Symbol/INND-TS56RCB.kicad_sym")(options "")(descr ""))
+)
